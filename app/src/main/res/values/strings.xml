@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Approximator</string>
+    <string name="approx">Аппроксимация</string>
+    <string name="interpol">Интерполяция</string>
+    <string name="hint">Коснитесь экрана чтоб задатьзначения точек</string>
+</resources>
